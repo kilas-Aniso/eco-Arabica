@@ -34,7 +34,7 @@ export default function Home() {
           <p className="text-xl max-w-3xl mx-auto">
             We are transforming the Ethiopian coffee sector into a hub for youth-led green innovation.
             Through hands-on skills training and digital empowerment, Eco Arabica is turning
-            "green skills" into "green jobs."
+            &ldquo;green skills&rdquo; into &ldquo;green jobs.&rdquo;
           </p>
         </div>
       </section>
@@ -50,7 +50,7 @@ export default function Home() {
               <div className="flex items-start space-x-4">
                 <FaGlobeAfrica className="text-4xl text-green-700 flex-shrink-0 mt-1" />
                 <p className="text-lg text-gray-700">
-                  With over 70% of Ethiopia's population under the age of 30, the future of our
+                  With over 70% of Ethiopia&apos;s population under the age of 30, the future of our
                   coffee heritage depends on the energy and creativity of our youth. Eco Arabica
                   bridges the gap between traditional farming and the modern, regulated global market.
                 </p>
@@ -64,7 +64,7 @@ export default function Home() {
       <section id="pillars" className="py-16 bg-gray-50">
         <div className="container mx-auto px-6">
           <h2 className="text-4xl font-bold text-center mb-12 text-green-900">
-            Our "Youth Empowerment" Pillars
+            Our &ldquo;Youth Empowerment&rdquo; Pillars
           </h2>
 
           <div className="grid md:grid-cols-3 gap-8">
@@ -103,7 +103,7 @@ export default function Home() {
               <p className="mb-4">We leverage digital platforms to make expert knowledge accessible across Ethiopia.</p>
               <ul className="space-y-3">
                 <li><strong>Digital Literacy:</strong> Training young cooperative leaders on how to use GPS mapping and digital record-keeping.</li>
-                <li><strong>Entrepreneurship:</strong> Workshops on "Coffee-Preneurship"—moving from primary production into value-add services like roasting, cupping, and digital marketing.</li>
+                <li><strong>Entrepreneurship:</strong> Workshops on &ldquo;Coffee-Preneurship&rdquo;—moving from primary production into value-add services like roasting, cupping, and digital marketing.</li>
                 <li><strong>Global Access:</strong> Our webinars connect Ethiopian youth directly with international buyers and sustainability experts.</li>
               </ul>
             </div>
@@ -119,9 +119,9 @@ export default function Home() {
           </h2>
           <div className="max-w-4xl mx-auto bg-green-700 p-8 rounded-lg">
             <blockquote className="text-xl italic">
-              "Before the Eco Arabica workshop, I saw coffee as my father's hard labor.
+              &ldquo;Before the Eco Arabica workshop, I saw coffee as my father&apos;s hard labor.
               Now, I see it as a digital business. I am learning to map our farm to meet
-              EU standards, ensuring our coffee stays on the world stage."
+              EU standards, ensuring our coffee stays on the world stage.&rdquo;
             </blockquote>
             <p className="mt-4 text-right">— Amanuel, 22, Agricultural Graduate & Workshop Participant</p>
           </div>
